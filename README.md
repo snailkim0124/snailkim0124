@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmingim)](https://solved.ac/kimmingim/)
 
+pip install -r requirements.txt
+uvicorn main:app --reload
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 
 
