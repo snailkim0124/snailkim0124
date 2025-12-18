@@ -1,6 +1,7 @@
-### Hi there 👋
+### 깃허브를 요즘 꾸며볼려고 합니다 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmingim)](https://solved.ac/kimmingim/)
-
+![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolranlee&count_private=true&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolranlee&theme=onedark)
 
 <!--
 **snailkim0124/snailkim0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
