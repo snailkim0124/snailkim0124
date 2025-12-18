@@ -1,7 +1,8 @@
-### 깃허브를 요즘 꾸며볼려고 합니다 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmingim)](https://solved.ac/kimmingim/) <br />
-![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=snailkim0124&count_private=true&show_icons=true&theme=react) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snailkim0124&theme=react) <br />
+### 알고리즘 문제를 푸는 것을 좋아합니다 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmingim)](https://solved.ac/kimmingim/) <br /><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snailkim0124&theme=react) <br /><br />
+![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=snailkim0124&count_private=true&show_icons=true&theme=react) <br /><br />
+
 
 <!--
 **snailkim0124/snailkim0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
