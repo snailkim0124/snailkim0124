@@ -1,6 +1,6 @@
 ### 알고리즘 문제를 푸는 것을 좋아합니다 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmingim)](https://solved.ac/kimmingim/) <br /><br />
-[![CodeForces Profile](https://cf.leed.at?id=snailkim)](https://codeforces.com/profile/snailkim)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmingim)](https://solved.ac/kimmingim/)
+[![CodeForces Profile](https://cf.leed.at?id=snailkim)](https://codeforces.com/profile/snailkim) <br /><br />
 ![Seolran's GitHub stats](https://github-readme-stats.vercel.app/api?username=snailkim0124&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snailkim0124&layout=compact&theme=react)
 
